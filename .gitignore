@@ -1,0 +1,13 @@
+# files to ignore when uploading to github
+
+# API keys
+keys.json
+
+# virtual environment
+venv/
+
+# cache with any username 
+.cache-*
+
+# my jupyter notebook checkpoints
+.ipynb_checkpoints/
