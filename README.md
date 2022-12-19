@@ -10,6 +10,14 @@ In this project I am taking villagers personality, gender and species to try and
 
 
 
+I initially used a json but the data was really hard to work with so I found a .csv of the animal crossing data instead. 
+
+
+
+The probability is really low, I tried adding more and less things to compare and it didn't seem to improve the score. Also weird that in the last line even though I ask for 12 examples I only get 3.
+
+
+
 ## Setup
 
 See requirements.txt to see what you need to download
